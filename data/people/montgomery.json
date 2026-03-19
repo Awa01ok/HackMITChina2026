@@ -1,0 +1,295 @@
+{
+  "id": "montgomery",
+  "name": "Bernard Montgomery",
+  "years": "1887-1976",
+  "summary": "British field marshal remembered for El Alamein, Normandy, and his role in Allied operations in Europe.",
+  "portrait": "assets/portraits/montgomery.jpg",
+  "tags": {
+    "roles": [
+      "Commander"
+    ],
+    "domains": [
+      "Military"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "theaters": [
+      "North Africa",
+      "Western Front"
+    ],
+    "themes": [
+      "Strategy",
+      "Command",
+      "Land Warfare"
+    ],
+    "eras": [
+      "Early WWII",
+      "Mid WWII",
+      "Late WWII",
+      "Postwar"
+    ]
+  },
+  "events": [
+    {
+      "id": "dunkirk-1940",
+      "title": "1940 · Dunkirk Evacuation",
+      "description": "Montgomery commanded troops during the retreat to Dunkirk, part of Britain’s narrow escape from defeat in France.",
+      "dateStart": "1940-05",
+      "dateEnd": "1940-06",
+      "place": "Dunkirk",
+      "center": [
+        2.38,
+        51.04
+      ],
+      "zoom": 6,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/montgomery-dunkirk-1940.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Dunkirk Evacuation"
+        }
+      ],
+      "tags": [
+        "Command",
+        "Land Warfare"
+      ]
+    },
+    {
+      "id": "kent-1941",
+      "title": "1941 · Preparing Britain’s Defenses",
+      "description": "Before returning to field operations overseas, Montgomery held major home defense commands in Britain.",
+      "dateStart": "1941-01",
+      "dateEnd": "1942-07",
+      "place": "Kent",
+      "center": [
+        0.52,
+        51.28
+      ],
+      "zoom": 6,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/montgomery-kent-1941.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Preparing Britain’s Defenses"
+        }
+      ],
+      "tags": [
+        "Command",
+        "Strategy"
+      ]
+    },
+    {
+      "id": "cairo-1942",
+      "title": "1942 · Takes Command of the Eighth Army",
+      "description": "Churchill placed Montgomery in charge in North Africa at a moment of crisis.",
+      "dateStart": "1942-08",
+      "dateEnd": "1942-08",
+      "place": "Cairo",
+      "center": [
+        31.24,
+        30.04
+      ],
+      "zoom": 5,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/montgomery-cairo-1942.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Takes Command of the Eighth Army"
+        }
+      ],
+      "tags": [
+        "Statecraft",
+        "Command"
+      ]
+    },
+    {
+      "id": "el-alamein-1942",
+      "title": "1942 · Second Battle of El Alamein",
+      "description": "Montgomery led the British Eighth Army to victory at El Alamein, a turning point in the desert war.",
+      "dateStart": "1942-10",
+      "dateEnd": "1942-11",
+      "place": "El Alamein",
+      "center": [
+        28.95,
+        30.83
+      ],
+      "zoom": 6,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/montgomery-el-alamein-1942.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Second Battle of El Alamein"
+        }
+      ],
+      "tags": [
+        "Strategy",
+        "Land Warfare"
+      ]
+    },
+    {
+      "id": "tripoli-1943",
+      "title": "1943 · Pursuit Across Libya",
+      "description": "His forces advanced westward after El Alamein as Axis armies retreated across North Africa.",
+      "dateStart": "1943-01",
+      "dateEnd": "1943-01",
+      "place": "Tripoli",
+      "center": [
+        13.19,
+        32.89
+      ],
+      "zoom": 6,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/montgomery-tripoli-1943.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Pursuit Across Libya"
+        }
+      ],
+      "tags": [
+        "Command",
+        "Land Warfare"
+      ]
+    },
+    {
+      "id": "sicily-1943",
+      "title": "1943 · Invasion of Sicily",
+      "description": "Montgomery played a leading role in the Allied invasion of Sicily as the war moved into Europe.",
+      "dateStart": "1943-07",
+      "dateEnd": "1943-08",
+      "place": "Sicily",
+      "center": [
+        14.0,
+        37.6
+      ],
+      "zoom": 6,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/montgomery-sicily-1943.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Invasion of Sicily"
+        }
+      ],
+      "tags": [
+        "Strategy",
+        "Command"
+      ]
+    },
+    {
+      "id": "normandy-1944",
+      "title": "1944 · Normandy Campaign",
+      "description": "Montgomery was a senior Allied commander during the Normandy campaign after the D-Day landings.",
+      "dateStart": "1944-06",
+      "dateEnd": "1944-08",
+      "place": "Normandy",
+      "center": [
+        -0.7,
+        49.2
+      ],
+      "zoom": 6,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/montgomery-normandy-1944.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Normandy Campaign"
+        }
+      ],
+      "tags": [
+        "Command",
+        "Land Warfare"
+      ]
+    },
+    {
+      "id": "arnhem-1944",
+      "title": "1944 · Operation Market Garden",
+      "description": "His ambitious airborne-ground offensive failed to secure a quick crossing into Germany.",
+      "dateStart": "1944-09",
+      "dateEnd": "1944-09",
+      "place": "Arnhem",
+      "center": [
+        5.91,
+        51.98
+      ],
+      "zoom": 6,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/montgomery-arnhem-1944.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Operation Market Garden"
+        }
+      ],
+      "tags": [
+        "Strategy",
+        "Command"
+      ]
+    },
+    {
+      "id": "rhine-1945",
+      "title": "1945 · Crossing the Rhine",
+      "description": "Montgomery oversaw the vast Allied effort to cross the Rhine and enter northern Germany.",
+      "dateStart": "1945-03",
+      "dateEnd": "1945-03",
+      "place": "Wesel",
+      "center": [
+        6.62,
+        51.66
+      ],
+      "zoom": 6,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/montgomery-rhine-1945.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Crossing the Rhine"
+        }
+      ],
+      "tags": [
+        "Command",
+        "Strategy"
+      ]
+    },
+    {
+      "id": "luneburg-1945",
+      "title": "1945 · German Surrender in the North",
+      "description": "Montgomery accepted the surrender of German forces in the Netherlands, northwest Germany, and Denmark.",
+      "dateStart": "1945-05",
+      "dateEnd": "1945-05",
+      "place": "Lüneburg",
+      "center": [
+        10.41,
+        53.25
+      ],
+      "zoom": 6,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/montgomery-luneburg-1945.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "German Surrender in the North"
+        }
+      ],
+      "tags": [
+        "Statecraft",
+        "Command"
+      ]
+    }
+  ]
+}

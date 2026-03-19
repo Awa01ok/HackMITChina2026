@@ -1,0 +1,77 @@
+{
+  "id": "einstein",
+  "name": "Albert Einstein",
+  "years": "1879-1955",
+  "summary": "Physicist whose ideas transformed modern science and whose life intersected with exile, war, and the atomic age.",
+  "portrait": "assets/portraits/einstein.jpg",
+  "tags": {
+    "roles": ["Scientist"],
+    "domains": ["Science", "Technology"],
+    "countries": ["Germany", "United States"],
+    "theaters": ["Europe"],
+    "themes": ["Research", "Statecraft"],
+    "eras": ["Interwar", "Early WWII", "Postwar"]
+  },
+  "events": [
+    {
+      "id": "berlin-1914",
+      "title": "1914 · Berlin Years",
+      "description": "Einstein moved to Berlin, where he developed some of his most influential scientific ideas during a turbulent era in Europe.",
+      "dateStart": "1914-04",
+      "dateEnd": "1933-03",
+      "place": "Berlin",
+      "center": [13.4, 52.52],
+      "zoom": 5,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/einstein-berlin-1914.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Albert Einstein"
+        }
+      ],
+      "tags": ["Research"]
+    },
+    {
+      "id": "princeton-1933",
+      "title": "1933 · Exile and Princeton",
+      "description": "After leaving Nazi Germany, Einstein settled in the United States and joined the Institute for Advanced Study in Princeton.",
+      "dateStart": "1933-10",
+      "dateEnd": "1955-04",
+      "place": "Princeton",
+      "center": [-74.66, 40.35],
+      "zoom": 6,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/einstein-princeton-1933.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Institute for Advanced Study"
+        }
+      ],
+      "tags": ["Research", "Statecraft"]
+    },
+    {
+      "id": "long-island-1939",
+      "title": "1939 · Letter on Atomic Research",
+      "description": "Einstein signed the famous letter to President Roosevelt warning of the strategic implications of nuclear research.",
+      "dateStart": "1939-08",
+      "dateEnd": "1939-08",
+      "place": "Long Island",
+      "center": [-73.13, 40.79],
+      "zoom": 6,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/einstein-atomic-letter-1939.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Einstein–Szilárd letter"
+        }
+      ],
+      "tags": ["Statecraft", "Research"]
+    }
+  ]
+}

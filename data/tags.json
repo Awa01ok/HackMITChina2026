@@ -1,0 +1,90 @@
+{
+  "tagCategories": [
+    {
+      "key": "roles",
+      "label": "Roles",
+      "values": [
+        "Leader",
+        "Commander",
+        "Scientist",
+        "Spy",
+        "Advisor",
+        "Minister",
+        "Diplomat",
+        "Engineer",
+        "Resistance Fighter",
+        "Industrialist"
+      ]
+    },
+    {
+      "key": "domains",
+      "label": "Domains",
+      "values": [
+        "Military",
+        "Politics",
+        "Science",
+        "Intelligence",
+        "Diplomacy",
+        "Industry",
+        "Technology",
+        "Economy"
+      ]
+    },
+    {
+      "key": "countries",
+      "label": "Countries",
+      "values": [
+        "Germany",
+        "Soviet Union",
+        "United Kingdom",
+        "United States",
+        "Japan",
+        "China",
+        "France",
+        "Italy"
+      ]
+    },
+    {
+      "key": "theaters",
+      "label": "Theaters",
+      "values": [
+        "Eastern Front",
+        "Western Front",
+        "North Africa",
+        "Pacific",
+        "Europe",
+        "East Asia",
+        "Middle East"
+      ]
+    },
+    {
+      "key": "themes",
+      "label": "Themes",
+      "values": [
+        "Strategy",
+        "Command",
+        "Logistics",
+        "Land Warfare",
+        "Mobile Warfare",
+        "Air Power",
+        "Naval Warfare",
+        "Espionage",
+        "Research",
+        "Propaganda",
+        "Resistance",
+        "Statecraft"
+      ]
+    },
+    {
+      "key": "eras",
+      "label": "Eras",
+      "values": [
+        "Interwar",
+        "Early WWII",
+        "Mid WWII",
+        "Late WWII",
+        "Postwar"
+      ]
+    }
+  ]
+}

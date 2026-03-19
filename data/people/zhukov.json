@@ -1,0 +1,294 @@
+{
+  "id": "zhukov",
+  "name": "Georgy Zhukov",
+  "years": "1896-1974",
+  "summary": "Soviet marshal and one of the most important commanders on the Eastern Front during World War II.",
+  "portrait": "assets/portraits/zhukov.jpg",
+  "tags": {
+    "roles": [
+      "Commander"
+    ],
+    "domains": [
+      "Military"
+    ],
+    "countries": [
+      "Soviet Union"
+    ],
+    "theaters": [
+      "Eastern Front"
+    ],
+    "themes": [
+      "Land Warfare",
+      "Strategy",
+      "Command"
+    ],
+    "eras": [
+      "Early WWII",
+      "Mid WWII",
+      "Late WWII",
+      "Postwar"
+    ]
+  },
+  "events": [
+    {
+      "id": "khalkhin-gol-1939",
+      "title": "1939 · Battle of Khalkhin Gol",
+      "description": "Zhukov rose to prominence after leading Soviet forces to victory against Japan at Khalkhin Gol.",
+      "dateStart": "1939-05",
+      "dateEnd": "1939-09",
+      "place": "Khalkhin Gol",
+      "center": [
+        117.7,
+        47.8
+      ],
+      "zoom": 5,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/zhukov-khalkhin-gol-1939.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Battle of Khalkhin Gol"
+        }
+      ],
+      "tags": [
+        "Land Warfare",
+        "Command"
+      ]
+    },
+    {
+      "id": "kiev-1941",
+      "title": "1941 · Reserve Front and the Counterstrokes near Yelnya",
+      "description": "After the opening disasters of Barbarossa, Zhukov was shifted between key sectors as Stalin searched for commanders who could stabilize the front.",
+      "dateStart": "1941-08",
+      "dateEnd": "1941-09",
+      "place": "Yelnya",
+      "center": [
+        33.18,
+        54.57
+      ],
+      "zoom": 6,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/zhukov-yelnya-1941.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Reserve Front and the Counterstrokes near Yelnya"
+        }
+      ],
+      "tags": [
+        "Strategy",
+        "Command"
+      ]
+    },
+    {
+      "id": "leningrad-1941",
+      "title": "1941 · Crisis at Leningrad",
+      "description": "Zhukov was sent to Leningrad to organize defenses at one of the most dangerous moments of the siege.",
+      "dateStart": "1941-09",
+      "dateEnd": "1941-10",
+      "place": "Leningrad",
+      "center": [
+        30.33,
+        59.93
+      ],
+      "zoom": 5,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/zhukov-leningrad-1941.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Crisis at Leningrad"
+        }
+      ],
+      "tags": [
+        "Strategy",
+        "Command"
+      ]
+    },
+    {
+      "id": "moscow-1941",
+      "title": "1941 · Defense of Moscow",
+      "description": "He coordinated the Soviet defense of Moscow and helped launch the winter counteroffensive.",
+      "dateStart": "1941-10",
+      "dateEnd": "1942-01",
+      "place": "Moscow",
+      "center": [
+        37.62,
+        55.75
+      ],
+      "zoom": 5,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/zhukov-moscow-1941.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Defense of Moscow"
+        }
+      ],
+      "tags": [
+        "Strategy",
+        "Land Warfare"
+      ]
+    },
+    {
+      "id": "stalingrad-1942",
+      "title": "1942 · Planning the Stalingrad Counteroffensive",
+      "description": "Zhukov helped shape Operation Uranus, the encirclement that reversed the battle at Stalingrad.",
+      "dateStart": "1942-09",
+      "dateEnd": "1942-11",
+      "place": "Stalingrad",
+      "center": [
+        44.51,
+        48.71
+      ],
+      "zoom": 5,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/zhukov-stalingrad-1942.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Planning the Stalingrad Counteroffensive"
+        }
+      ],
+      "tags": [
+        "Strategy",
+        "Command"
+      ]
+    },
+    {
+      "id": "kursk-1943",
+      "title": "1943 · Battle of Kursk",
+      "description": "Zhukov was central to Soviet planning before the German offensive at Kursk and the counterattacks that followed.",
+      "dateStart": "1943-07",
+      "dateEnd": "1943-08",
+      "place": "Kursk",
+      "center": [
+        36.19,
+        51.73
+      ],
+      "zoom": 5,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/zhukov-kursk-1943.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Battle of Kursk"
+        }
+      ],
+      "tags": [
+        "Land Warfare",
+        "Strategy"
+      ]
+    },
+    {
+      "id": "bagration-1944",
+      "title": "1944 · Operation Bagration",
+      "description": "He oversaw one of the Red Army’s greatest victories as Soviet forces shattered Army Group Centre.",
+      "dateStart": "1944-06",
+      "dateEnd": "1944-08",
+      "place": "Belarus",
+      "center": [
+        27.56,
+        53.9
+      ],
+      "zoom": 5,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/zhukov-bagration-1944.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Operation Bagration"
+        }
+      ],
+      "tags": [
+        "Command",
+        "Strategy"
+      ]
+    },
+    {
+      "id": "vistula-oder-1945",
+      "title": "1945 · Vistula–Oder Offensive",
+      "description": "Zhukov’s front surged from Poland toward Germany in a rapid winter advance.",
+      "dateStart": "1945-01",
+      "dateEnd": "1945-02",
+      "place": "Poland",
+      "center": [
+        19.46,
+        52.23
+      ],
+      "zoom": 5,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/zhukov-vistula-oder-1945.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Vistula–Oder Offensive"
+        }
+      ],
+      "tags": [
+        "Land Warfare",
+        "Command"
+      ]
+    },
+    {
+      "id": "berlin-1945",
+      "title": "1945 · Battle of Berlin",
+      "description": "He commanded Soviet forces in the final assault on Berlin as the war in Europe approached its end.",
+      "dateStart": "1945-04",
+      "dateEnd": "1945-05",
+      "place": "Berlin",
+      "center": [
+        13.4,
+        52.52
+      ],
+      "zoom": 5,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/zhukov-berlin-1945.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Battle of Berlin"
+        }
+      ],
+      "tags": [
+        "Land Warfare",
+        "Command"
+      ]
+    },
+    {
+      "id": "postwar-berlin-1945",
+      "title": "1945 · Occupation Command in Germany",
+      "description": "After victory, Zhukov became the most prominent Soviet military figure in occupied Germany.",
+      "dateStart": "1945-05",
+      "dateEnd": "1946-03",
+      "place": "Berlin",
+      "center": [
+        13.4,
+        52.52
+      ],
+      "zoom": 5,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/zhukov-occupation-1945.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Occupation Command in Germany"
+        }
+      ],
+      "tags": [
+        "Statecraft",
+        "Command"
+      ]
+    }
+  ]
+}

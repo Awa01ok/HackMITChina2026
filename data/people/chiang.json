@@ -1,0 +1,296 @@
+{
+  "id": "chiang",
+  "name": "Chiang Kai-shek",
+  "years": "1887-1975",
+  "summary": "Nationalist leader of China who fought Japan, struggled with the Communists, and ultimately retreated to Taiwan.",
+  "portrait": "assets/portraits/chiang.jpg",
+  "tags": {
+    "roles": [
+      "Leader"
+    ],
+    "domains": [
+      "Politics",
+      "Military"
+    ],
+    "countries": [
+      "China"
+    ],
+    "theaters": [
+      "East Asia"
+    ],
+    "themes": [
+      "Statecraft",
+      "Command",
+      "Strategy"
+    ],
+    "eras": [
+      "Interwar",
+      "Early WWII",
+      "Mid WWII",
+      "Late WWII",
+      "Postwar"
+    ]
+  },
+  "events": [
+    {
+      "id": "nanjing-1930",
+      "title": "1930 · Nanjing Government",
+      "description": "Chiang led the Nationalist government from Nanjing while trying to consolidate fragmented China.",
+      "dateStart": "1930-01",
+      "dateEnd": "1930-12",
+      "place": "Nanjing",
+      "center": [
+        118.8,
+        32.06
+      ],
+      "zoom": 6,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/chiang-nanjing-1930.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Nanjing Government"
+        }
+      ],
+      "tags": [
+        "Statecraft",
+        "Command"
+      ]
+    },
+    {
+      "id": "jiangxi-1934",
+      "title": "1934 · Fifth Encirclement Campaign",
+      "description": "Chiang’s pressure on Communist bases helped trigger the Long March.",
+      "dateStart": "1934-09",
+      "dateEnd": "1934-10",
+      "place": "Jiangxi",
+      "center": [
+        116.03,
+        25.89
+      ],
+      "zoom": 6,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/chiang-jiangxi-1934.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Fifth Encirclement Campaign"
+        }
+      ],
+      "tags": [
+        "Strategy",
+        "Command"
+      ]
+    },
+    {
+      "id": "xian-1936",
+      "title": "1936 · Xi’an Incident",
+      "description": "Chiang was detained by his own generals and forced toward a united front against Japan.",
+      "dateStart": "1936-12",
+      "dateEnd": "1936-12",
+      "place": "Xi’an",
+      "center": [
+        108.94,
+        34.34
+      ],
+      "zoom": 6,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/chiang-xian-1936.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Xi’an Incident"
+        }
+      ],
+      "tags": [
+        "Statecraft",
+        "Strategy"
+      ]
+    },
+    {
+      "id": "nanjing-1937",
+      "title": "1937 · War with Japan",
+      "description": "After the Marco Polo Bridge crisis, Chiang committed China to full-scale resistance against Japan.",
+      "dateStart": "1937-07",
+      "dateEnd": "1937-12",
+      "place": "Nanjing",
+      "center": [
+        118.8,
+        32.06
+      ],
+      "zoom": 6,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/chiang-war-1937.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "War with Japan"
+        }
+      ],
+      "tags": [
+        "Command",
+        "Statecraft"
+      ]
+    },
+    {
+      "id": "wuhan-1938",
+      "title": "1938 · Battle of Wuhan",
+      "description": "The defense of Wuhan was one of the great campaigns of China’s war against Japan.",
+      "dateStart": "1938-06",
+      "dateEnd": "1938-10",
+      "place": "Wuhan",
+      "center": [
+        114.31,
+        30.52
+      ],
+      "zoom": 6,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/chiang-wuhan-1938.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Battle of Wuhan"
+        }
+      ],
+      "tags": [
+        "Command",
+        "Land Warfare"
+      ]
+    },
+    {
+      "id": "chongqing-1940",
+      "title": "1940 · Wartime Capital at Chongqing",
+      "description": "From Chongqing, Chiang led the Nationalist war effort through years of blockade, bombing, and strain.",
+      "dateStart": "1940-01",
+      "dateEnd": "1943-12",
+      "place": "Chongqing",
+      "center": [
+        106.55,
+        29.56
+      ],
+      "zoom": 6,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/chiang-chongqing-1940.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Wartime Capital at Chongqing"
+        }
+      ],
+      "tags": [
+        "Statecraft",
+        "Command"
+      ]
+    },
+    {
+      "id": "cairo-1943",
+      "title": "1943 · Cairo Conference",
+      "description": "Chiang joined Roosevelt and Churchill, underscoring China’s place among the wartime Allies.",
+      "dateStart": "1943-11",
+      "dateEnd": "1943-11",
+      "place": "Cairo",
+      "center": [
+        31.24,
+        30.04
+      ],
+      "zoom": 5,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/chiang-cairo-1943.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Cairo Conference"
+        }
+      ],
+      "tags": [
+        "Statecraft",
+        "Strategy"
+      ]
+    },
+    {
+      "id": "nanjing-1945",
+      "title": "1945 · Victory over Japan",
+      "description": "After Japan’s surrender, Chiang returned to the political center of a reunited but exhausted China.",
+      "dateStart": "1945-08",
+      "dateEnd": "1945-10",
+      "place": "Nanjing",
+      "center": [
+        118.8,
+        32.06
+      ],
+      "zoom": 6,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/chiang-victory-1945.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Victory over Japan"
+        }
+      ],
+      "tags": [
+        "Statecraft",
+        "Command"
+      ]
+    },
+    {
+      "id": "xuzhou-1948",
+      "title": "1948 · Huaihai Campaign",
+      "description": "The civil war turned decisively against the Nationalists as major central China offensives collapsed.",
+      "dateStart": "1948-11",
+      "dateEnd": "1949-01",
+      "place": "Xuzhou",
+      "center": [
+        117.29,
+        34.21
+      ],
+      "zoom": 6,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/chiang-huaihai-1948.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Huaihai Campaign"
+        }
+      ],
+      "tags": [
+        "Command",
+        "Strategy"
+      ]
+    },
+    {
+      "id": "taipei-1949",
+      "title": "1949 · Retreat to Taiwan",
+      "description": "Chiang relocated the Nationalist government to Taiwan after losing the mainland to the Communists.",
+      "dateStart": "1949-12",
+      "dateEnd": "1950-12",
+      "place": "Taipei",
+      "center": [
+        121.56,
+        25.04
+      ],
+      "zoom": 6,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/chiang-taipei-1949.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Retreat to Taiwan"
+        }
+      ],
+      "tags": [
+        "Statecraft",
+        "Command"
+      ]
+    }
+  ]
+}

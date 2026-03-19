@@ -1,0 +1,296 @@
+{
+  "id": "mao",
+  "name": "Mao Zedong",
+  "years": "1893-1976",
+  "summary": "Chinese Communist leader whose political and military ascent culminated in the founding of the People’s Republic of China.",
+  "portrait": "assets/portraits/mao.jpg",
+  "tags": {
+    "roles": [
+      "Leader"
+    ],
+    "domains": [
+      "Politics",
+      "Military"
+    ],
+    "countries": [
+      "China"
+    ],
+    "theaters": [
+      "East Asia"
+    ],
+    "themes": [
+      "Statecraft",
+      "Command",
+      "Propaganda"
+    ],
+    "eras": [
+      "Interwar",
+      "Early WWII",
+      "Mid WWII",
+      "Late WWII",
+      "Postwar"
+    ]
+  },
+  "events": [
+    {
+      "id": "ruijin-1931",
+      "title": "1931 · Jiangxi Soviet",
+      "description": "Mao’s authority developed within the Communist base areas even as leadership disputes continued inside the party.",
+      "dateStart": "1931-11",
+      "dateEnd": "1934-10",
+      "place": "Ruijin",
+      "center": [
+        116.03,
+        25.89
+      ],
+      "zoom": 6,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/mao-ruijin-1931.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Jiangxi Soviet"
+        }
+      ],
+      "tags": [
+        "Statecraft",
+        "Command"
+      ]
+    },
+    {
+      "id": "long-march-1934",
+      "title": "1934 · Beginning of the Long March",
+      "description": "The Communist retreat from Jiangxi became the decisive movement in Mao’s eventual rise.",
+      "dateStart": "1934-10",
+      "dateEnd": "1934-12",
+      "place": "Jiangxi",
+      "center": [
+        114.94,
+        25.85
+      ],
+      "zoom": 5,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/mao-long-march-1934.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Beginning of the Long March"
+        }
+      ],
+      "tags": [
+        "Strategy",
+        "Command"
+      ]
+    },
+    {
+      "id": "zunyi-1935",
+      "title": "1935 · Zunyi Conference",
+      "description": "At Zunyi, Mao gained greater influence over party and military strategy.",
+      "dateStart": "1935-01",
+      "dateEnd": "1935-01",
+      "place": "Zunyi",
+      "center": [
+        106.93,
+        27.73
+      ],
+      "zoom": 6,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/mao-zunyi-1935.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Zunyi Conference"
+        }
+      ],
+      "tags": [
+        "Statecraft",
+        "Command"
+      ]
+    },
+    {
+      "id": "yanan-1936",
+      "title": "1936 · Base at Yan’an",
+      "description": "Yan’an became the political and symbolic center of Mao’s movement.",
+      "dateStart": "1936-12",
+      "dateEnd": "1947-03",
+      "place": "Yan’an",
+      "center": [
+        109.49,
+        36.6
+      ],
+      "zoom": 6,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/mao-yanan-1936.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Base at Yan’an"
+        }
+      ],
+      "tags": [
+        "Propaganda",
+        "Statecraft"
+      ]
+    },
+    {
+      "id": "xian-1936",
+      "title": "1936 · Xi’an Incident and United Front",
+      "description": "The crisis reshaped Chinese politics and pushed the Nationalists and Communists toward uneasy cooperation against Japan.",
+      "dateStart": "1936-12",
+      "dateEnd": "1936-12",
+      "place": "Xi’an",
+      "center": [
+        108.94,
+        34.34
+      ],
+      "zoom": 6,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/mao-xian-1936.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Xi’an Incident and United Front"
+        }
+      ],
+      "tags": [
+        "Statecraft",
+        "Strategy"
+      ]
+    },
+    {
+      "id": "hundred-regiments-1940",
+      "title": "1940 · Hundred Regiments Offensive",
+      "description": "Communist forces launched their largest campaign against Japanese lines in North China.",
+      "dateStart": "1940-08",
+      "dateEnd": "1940-12",
+      "place": "Shanxi",
+      "center": [
+        112.55,
+        37.87
+      ],
+      "zoom": 5,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/mao-hundred-regiments-1940.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Hundred Regiments Offensive"
+        }
+      ],
+      "tags": [
+        "Command",
+        "Land Warfare"
+      ]
+    },
+    {
+      "id": "yanan-1945",
+      "title": "1945 · Seventh Party Congress",
+      "description": "By the end of the anti-Japanese war, Mao’s political leadership within the CCP was firmly established.",
+      "dateStart": "1945-04",
+      "dateEnd": "1945-06",
+      "place": "Yan’an",
+      "center": [
+        109.49,
+        36.6
+      ],
+      "zoom": 6,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/mao-party-congress-1945.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Seventh Party Congress"
+        }
+      ],
+      "tags": [
+        "Statecraft",
+        "Propaganda"
+      ]
+    },
+    {
+      "id": "xibaipo-1948",
+      "title": "1948 · Command from Xibaipo",
+      "description": "As the civil war swung in Communist favor, Mao directed strategy from the CCP headquarters in Hebei.",
+      "dateStart": "1948-01",
+      "dateEnd": "1949-03",
+      "place": "Xibaipo",
+      "center": [
+        114.98,
+        38.34
+      ],
+      "zoom": 6,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/mao-xibaipo-1948.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Command from Xibaipo"
+        }
+      ],
+      "tags": [
+        "Strategy",
+        "Command"
+      ]
+    },
+    {
+      "id": "beijing-1949",
+      "title": "1949 · Proclamation of the People’s Republic",
+      "description": "Mao announced the founding of the PRC in Beijing, completing the Communist victory on the mainland.",
+      "dateStart": "1949-10",
+      "dateEnd": "1949-10",
+      "place": "Beijing",
+      "center": [
+        116.4,
+        39.91
+      ],
+      "zoom": 5,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/mao-beijing-1949.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Proclamation of the People’s Republic"
+        }
+      ],
+      "tags": [
+        "Statecraft",
+        "Propaganda"
+      ]
+    },
+    {
+      "id": "moscow-1950",
+      "title": "1950 · Sino–Soviet Treaty",
+      "description": "Mao’s trip to Moscow signaled the new China’s entry into the Cold War order.",
+      "dateStart": "1950-02",
+      "dateEnd": "1950-02",
+      "place": "Moscow",
+      "center": [
+        37.62,
+        55.75
+      ],
+      "zoom": 5,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/mao-moscow-1950.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Sino–Soviet Treaty"
+        }
+      ],
+      "tags": [
+        "Statecraft",
+        "Strategy"
+      ]
+    }
+  ]
+}

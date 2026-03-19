@@ -1,0 +1,297 @@
+{
+  "id": "stalin",
+  "name": "Joseph Stalin",
+  "years": "1878-1953",
+  "summary": "Leader of the Soviet Union during World War II, overseeing industrial mobilization, wartime strategy, and postwar expansion.",
+  "portrait": "assets/portraits/stalin.jpg",
+  "tags": {
+    "roles": [
+      "Leader"
+    ],
+    "domains": [
+      "Politics",
+      "Military"
+    ],
+    "countries": [
+      "Soviet Union"
+    ],
+    "theaters": [
+      "Eastern Front",
+      "Europe"
+    ],
+    "themes": [
+      "Statecraft",
+      "Command",
+      "Industry"
+    ],
+    "eras": [
+      "Interwar",
+      "Early WWII",
+      "Mid WWII",
+      "Late WWII",
+      "Postwar"
+    ]
+  },
+  "events": [
+    {
+      "id": "moscow-1930",
+      "title": "1930 · Collectivization and Centralized Power",
+      "description": "By 1930 Stalin had consolidated personal control while forcing a brutal transformation of the Soviet countryside.",
+      "dateStart": "1930-01",
+      "dateEnd": "1930-12",
+      "place": "Moscow",
+      "center": [
+        37.62,
+        55.75
+      ],
+      "zoom": 5,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/stalin-collectivization-1930.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Collectivization and Centralized Power"
+        }
+      ],
+      "tags": [
+        "Statecraft",
+        "Industry"
+      ]
+    },
+    {
+      "id": "moscow-1936",
+      "title": "1936 · The Stalin Constitution Era",
+      "description": "The new constitution projected legitimacy even as repression deepened across the Soviet system.",
+      "dateStart": "1936-01",
+      "dateEnd": "1936-12",
+      "place": "Moscow",
+      "center": [
+        37.62,
+        55.75
+      ],
+      "zoom": 5,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/stalin-constitution-1936.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "The Stalin Constitution Era"
+        }
+      ],
+      "tags": [
+        "Statecraft",
+        "Propaganda"
+      ]
+    },
+    {
+      "id": "moscow-1937",
+      "title": "1937 · The Great Purge",
+      "description": "The purges ravaged the Red Army and state apparatus, shaping Soviet command on the eve of war.",
+      "dateStart": "1937-01",
+      "dateEnd": "1938-12",
+      "place": "Moscow",
+      "center": [
+        37.62,
+        55.75
+      ],
+      "zoom": 5,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/stalin-purge-1937.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "The Great Purge"
+        }
+      ],
+      "tags": [
+        "Statecraft",
+        "Command"
+      ]
+    },
+    {
+      "id": "kremlin-1939",
+      "title": "1939 · Molotov–Ribbentrop Pact",
+      "description": "Stalin bought time through a non-aggression pact with Nazi Germany while reshaping the strategic map of Eastern Europe.",
+      "dateStart": "1939-08",
+      "dateEnd": "1939-09",
+      "place": "Moscow",
+      "center": [
+        37.62,
+        55.75
+      ],
+      "zoom": 5,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/stalin-pact-1939.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Molotov–Ribbentrop Pact"
+        }
+      ],
+      "tags": [
+        "Statecraft",
+        "Strategy"
+      ]
+    },
+    {
+      "id": "moscow-1941",
+      "title": "1941 · Defense of Moscow",
+      "description": "Stalin chose to remain in Moscow during the crisis and became the political center of Soviet resistance.",
+      "dateStart": "1941-10",
+      "dateEnd": "1942-01",
+      "place": "Moscow",
+      "center": [
+        37.62,
+        55.75
+      ],
+      "zoom": 5,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/stalin-moscow-1941.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Defense of Moscow"
+        }
+      ],
+      "tags": [
+        "Statecraft",
+        "Command"
+      ]
+    },
+    {
+      "id": "stalingrad-1942",
+      "title": "1942 · Battle of Stalingrad",
+      "description": "The Soviet stand and counteroffensive at Stalingrad became the war’s decisive turning point in the east.",
+      "dateStart": "1942-08",
+      "dateEnd": "1943-02",
+      "place": "Stalingrad",
+      "center": [
+        44.51,
+        48.71
+      ],
+      "zoom": 5,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/stalin-stalingrad-1942.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Battle of Stalingrad"
+        }
+      ],
+      "tags": [
+        "Command",
+        "Strategy"
+      ]
+    },
+    {
+      "id": "tehran-1943",
+      "title": "1943 · Tehran Conference",
+      "description": "Stalin met Roosevelt and Churchill as Allied victory began to look inevitable.",
+      "dateStart": "1943-11",
+      "dateEnd": "1943-12",
+      "place": "Tehran",
+      "center": [
+        51.39,
+        35.69
+      ],
+      "zoom": 5,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/stalin-tehran-1943.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Tehran Conference"
+        }
+      ],
+      "tags": [
+        "Statecraft",
+        "Diplomacy"
+      ]
+    },
+    {
+      "id": "yalta-1945",
+      "title": "1945 · Yalta Conference",
+      "description": "At Yalta, Stalin negotiated the postwar order in Europe with the western Allies.",
+      "dateStart": "1945-02",
+      "dateEnd": "1945-02",
+      "place": "Yalta",
+      "center": [
+        34.17,
+        44.49
+      ],
+      "zoom": 6,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/stalin-yalta-1945.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Yalta Conference"
+        }
+      ],
+      "tags": [
+        "Statecraft",
+        "Strategy"
+      ]
+    },
+    {
+      "id": "berlin-1945",
+      "title": "1945 · Soviet Victory in Berlin",
+      "description": "The fall of Berlin placed the Red Army at the political center of postwar Europe.",
+      "dateStart": "1945-04",
+      "dateEnd": "1945-05",
+      "place": "Berlin",
+      "center": [
+        13.4,
+        52.52
+      ],
+      "zoom": 5,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/stalin-berlin-1945.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Soviet Victory in Berlin"
+        }
+      ],
+      "tags": [
+        "Command",
+        "Statecraft"
+      ]
+    },
+    {
+      "id": "moscow-1950",
+      "title": "1950 · Sino–Soviet Alliance",
+      "description": "The treaty with the new People’s Republic of China reflected Stalin’s shaping of the early Cold War balance.",
+      "dateStart": "1950-02",
+      "dateEnd": "1950-02",
+      "place": "Moscow",
+      "center": [
+        37.62,
+        55.75
+      ],
+      "zoom": 5,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/stalin-sino-soviet-1950.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Sino–Soviet Alliance"
+        }
+      ],
+      "tags": [
+        "Statecraft",
+        "Industry"
+      ]
+    }
+  ]
+}

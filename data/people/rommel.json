@@ -1,0 +1,294 @@
+{
+  "id": "rommel",
+  "name": "Erwin Rommel",
+  "years": "1891-1944",
+  "summary": "German field marshal best known for his campaigns in North Africa and his reputation for bold mobile warfare.",
+  "portrait": "assets/portraits/rommel.jpg",
+  "tags": {
+    "roles": [
+      "Commander"
+    ],
+    "domains": [
+      "Military"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "theaters": [
+      "North Africa",
+      "Western Front"
+    ],
+    "themes": [
+      "Mobile Warfare",
+      "Strategy",
+      "Command"
+    ],
+    "eras": [
+      "Early WWII",
+      "Mid WWII",
+      "Late WWII"
+    ]
+  },
+  "events": [
+    {
+      "id": "goslar-1939",
+      "title": "1939 · Hitler’s Escort Battalion",
+      "description": "Rommel spent the opening phase of the war close to Hitler, gaining influence before returning to field command.",
+      "dateStart": "1939-09",
+      "dateEnd": "1940-02",
+      "place": "Berlin",
+      "center": [
+        13.4,
+        52.52
+      ],
+      "zoom": 5,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/rommel-fhq-1939.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Hitler’s Escort Battalion"
+        }
+      ],
+      "tags": [
+        "Command",
+        "Strategy"
+      ]
+    },
+    {
+      "id": "france-1940",
+      "title": "1940 · Battle of France",
+      "description": "Leading the 7th Panzer Division, Rommel gained fame for fast-moving operations through France.",
+      "dateStart": "1940-05",
+      "dateEnd": "1940-06",
+      "place": "France",
+      "center": [
+        2.2,
+        49.2
+      ],
+      "zoom": 5,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/rommel-france-1940.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Battle of France"
+        }
+      ],
+      "tags": [
+        "Mobile Warfare",
+        "Command"
+      ]
+    },
+    {
+      "id": "tripoli-1941",
+      "title": "1941 · Arrival in North Africa",
+      "description": "Rommel arrived in Libya to lead the Afrika Korps and quickly seized the initiative.",
+      "dateStart": "1941-02",
+      "dateEnd": "1941-03",
+      "place": "Tripoli",
+      "center": [
+        13.19,
+        32.89
+      ],
+      "zoom": 6,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/rommel-tripoli-1941.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Arrival in North Africa"
+        }
+      ],
+      "tags": [
+        "Strategy",
+        "Command"
+      ]
+    },
+    {
+      "id": "tobruk-1941",
+      "title": "1941 · Siege of Tobruk",
+      "description": "The fighting around Tobruk became one of the defining struggles of Rommel’s desert campaign.",
+      "dateStart": "1941-04",
+      "dateEnd": "1941-12",
+      "place": "Tobruk",
+      "center": [
+        23.98,
+        32.08
+      ],
+      "zoom": 6,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/rommel-tobruk-1941.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Siege of Tobruk"
+        }
+      ],
+      "tags": [
+        "Mobile Warfare",
+        "Land Warfare"
+      ]
+    },
+    {
+      "id": "gazala-1942",
+      "title": "1942 · Battle of Gazala",
+      "description": "Rommel won one of his greatest battlefield victories and reopened the road toward Egypt.",
+      "dateStart": "1942-05",
+      "dateEnd": "1942-06",
+      "place": "Gazala",
+      "center": [
+        24.04,
+        32.16
+      ],
+      "zoom": 6,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/rommel-gazala-1942.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Battle of Gazala"
+        }
+      ],
+      "tags": [
+        "Mobile Warfare",
+        "Command"
+      ]
+    },
+    {
+      "id": "el-alamein-1942",
+      "title": "1942 · Second Battle of El Alamein",
+      "description": "At El Alamein the balance turned against Rommel as British strength and logistics overwhelmed the Axis position.",
+      "dateStart": "1942-10",
+      "dateEnd": "1942-11",
+      "place": "El Alamein",
+      "center": [
+        28.95,
+        30.83
+      ],
+      "zoom": 6,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/rommel-el-alamein-1942.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Second Battle of El Alamein"
+        }
+      ],
+      "tags": [
+        "Strategy",
+        "Land Warfare"
+      ]
+    },
+    {
+      "id": "tunisia-1943",
+      "title": "1943 · Retreat into Tunisia",
+      "description": "Rommel oversaw a shrinking Axis position before leaving North Africa for the last time.",
+      "dateStart": "1943-02",
+      "dateEnd": "1943-03",
+      "place": "Tunisia",
+      "center": [
+        10.18,
+        36.8
+      ],
+      "zoom": 5,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/rommel-tunisia-1943.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Retreat into Tunisia"
+        }
+      ],
+      "tags": [
+        "Command",
+        "Strategy"
+      ]
+    },
+    {
+      "id": "atlantic-wall-1944",
+      "title": "1944 · Inspection of the Atlantic Wall",
+      "description": "Back in Europe, Rommel argued for stronger coastal defenses against the coming Allied invasion.",
+      "dateStart": "1944-01",
+      "dateEnd": "1944-05",
+      "place": "Normandy",
+      "center": [
+        -0.7,
+        49.2
+      ],
+      "zoom": 6,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/rommel-atlantic-wall-1944.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Inspection of the Atlantic Wall"
+        }
+      ],
+      "tags": [
+        "Strategy",
+        "Command"
+      ]
+    },
+    {
+      "id": "normandy-1944",
+      "title": "1944 · Normandy Campaign",
+      "description": "Rommel struggled to blunt the Allied landings while disagreeing with the German high command over strategy.",
+      "dateStart": "1944-06",
+      "dateEnd": "1944-07",
+      "place": "Normandy",
+      "center": [
+        -0.7,
+        49.2
+      ],
+      "zoom": 6,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/rommel-normandy-1944.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Normandy Campaign"
+        }
+      ],
+      "tags": [
+        "Land Warfare",
+        "Command"
+      ]
+    },
+    {
+      "id": "herrlingen-1944",
+      "title": "1944 · Forced Suicide after the July Plot",
+      "description": "Suspected of links to the resistance against Hitler, Rommel was compelled to take poison.",
+      "dateStart": "1944-10",
+      "dateEnd": "1944-10",
+      "place": "Herrlingen",
+      "center": [
+        9.9,
+        48.41
+      ],
+      "zoom": 7,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/rommel-herrlingen-1944.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Forced Suicide after the July Plot"
+        }
+      ],
+      "tags": [
+        "Statecraft",
+        "Command"
+      ]
+    }
+  ]
+}

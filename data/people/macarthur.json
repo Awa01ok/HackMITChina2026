@@ -1,0 +1,296 @@
+{
+  "id": "macarthur",
+  "name": "Douglas MacArthur",
+  "years": "1880-1964",
+  "summary": "American general best known for his leadership in the Pacific and the occupation of Japan.",
+  "portrait": "assets/portraits/macarthur.jpg",
+  "tags": {
+    "roles": [
+      "Commander"
+    ],
+    "domains": [
+      "Military"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "theaters": [
+      "Pacific",
+      "East Asia"
+    ],
+    "themes": [
+      "Strategy",
+      "Command",
+      "Land Warfare"
+    ],
+    "eras": [
+      "Interwar",
+      "Early WWII",
+      "Mid WWII",
+      "Late WWII",
+      "Postwar"
+    ]
+  },
+  "events": [
+    {
+      "id": "washington-1930",
+      "title": "1930 · Army Chief in Washington",
+      "description": "As Army chief of staff, MacArthur was already a national figure and advocate of preparedness during the Depression era.",
+      "dateStart": "1930-11",
+      "dateEnd": "1935-10",
+      "place": "Washington, D.C.",
+      "center": [
+        -77.04,
+        38.91
+      ],
+      "zoom": 5,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/macarthur-washington-1930.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Army Chief in Washington"
+        }
+      ],
+      "tags": [
+        "Command",
+        "Statecraft"
+      ]
+    },
+    {
+      "id": "manila-1935",
+      "title": "1935 · Military Advisor to the Philippines",
+      "description": "MacArthur helped build the armed forces of the new Commonwealth of the Philippines.",
+      "dateStart": "1935-11",
+      "dateEnd": "1941-07",
+      "place": "Manila",
+      "center": [
+        120.98,
+        14.6
+      ],
+      "zoom": 5,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/macarthur-manila-1935.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Military Advisor to the Philippines"
+        }
+      ],
+      "tags": [
+        "Command",
+        "Strategy"
+      ]
+    },
+    {
+      "id": "manila-1941",
+      "title": "1941 · Defense of the Philippines",
+      "description": "MacArthur commanded Allied forces in the Philippines during the opening phase of the Pacific War.",
+      "dateStart": "1941-12",
+      "dateEnd": "1942-03",
+      "place": "Manila",
+      "center": [
+        120.98,
+        14.6
+      ],
+      "zoom": 5,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/macarthur-philippines-1941.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Defense of the Philippines"
+        }
+      ],
+      "tags": [
+        "Command",
+        "Land Warfare"
+      ]
+    },
+    {
+      "id": "corregidor-1942",
+      "title": "1942 · Departure from Corregidor",
+      "description": "Ordered to leave for Australia, MacArthur turned retreat into a promise to return.",
+      "dateStart": "1942-03",
+      "dateEnd": "1942-03",
+      "place": "Corregidor",
+      "center": [
+        120.59,
+        14.38
+      ],
+      "zoom": 7,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/macarthur-corregidor-1942.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Departure from Corregidor"
+        }
+      ],
+      "tags": [
+        "Statecraft",
+        "Command"
+      ]
+    },
+    {
+      "id": "brisbane-1942",
+      "title": "1942 · Southwest Pacific Command",
+      "description": "From Australia, MacArthur directed the long Allied advance back toward the Philippines.",
+      "dateStart": "1942-04",
+      "dateEnd": "1944-09",
+      "place": "Brisbane",
+      "center": [
+        153.03,
+        -27.47
+      ],
+      "zoom": 5,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/macarthur-brisbane-1942.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Southwest Pacific Command"
+        }
+      ],
+      "tags": [
+        "Strategy",
+        "Command"
+      ]
+    },
+    {
+      "id": "hollandia-1944",
+      "title": "1944 · Hollandia Leap",
+      "description": "His New Guinea campaign used bold amphibious moves to bypass Japanese strongpoints.",
+      "dateStart": "1944-04",
+      "dateEnd": "1944-04",
+      "place": "Hollandia",
+      "center": [
+        140.72,
+        -2.53
+      ],
+      "zoom": 6,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/macarthur-hollandia-1944.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Hollandia Leap"
+        }
+      ],
+      "tags": [
+        "Strategy",
+        "Land Warfare"
+      ]
+    },
+    {
+      "id": "leyte-1944",
+      "title": "1944 · Return to the Philippines",
+      "description": "MacArthur returned to the Philippines during the Leyte landings, fulfilling his famous promise to come back.",
+      "dateStart": "1944-10",
+      "dateEnd": "1944-10",
+      "place": "Leyte",
+      "center": [
+        124.98,
+        11.24
+      ],
+      "zoom": 6,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/macarthur-leyte-1944.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Return to the Philippines"
+        }
+      ],
+      "tags": [
+        "Command",
+        "Strategy"
+      ]
+    },
+    {
+      "id": "tokyo-bay-1945",
+      "title": "1945 · Japanese Surrender",
+      "description": "MacArthur presided over the formal surrender aboard USS Missouri in Tokyo Bay.",
+      "dateStart": "1945-09",
+      "dateEnd": "1945-09",
+      "place": "Tokyo Bay",
+      "center": [
+        139.8,
+        35.58
+      ],
+      "zoom": 6,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/macarthur-tokyo-bay-1945.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Japanese Surrender"
+        }
+      ],
+      "tags": [
+        "Statecraft",
+        "Command"
+      ]
+    },
+    {
+      "id": "tokyo-1946",
+      "title": "1946 · Occupation Reforms in Japan",
+      "description": "As Supreme Commander, MacArthur oversaw a sweeping remaking of the Japanese state.",
+      "dateStart": "1946-01",
+      "dateEnd": "1949-12",
+      "place": "Tokyo",
+      "center": [
+        139.76,
+        35.68
+      ],
+      "zoom": 5,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/macarthur-tokyo-1946.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Occupation Reforms in Japan"
+        }
+      ],
+      "tags": [
+        "Statecraft",
+        "Strategy"
+      ]
+    },
+    {
+      "id": "incheon-1950",
+      "title": "1950 · Incheon Landing",
+      "description": "MacArthur’s bold amphibious landing in Korea restored the UN position and revived his aura of strategic daring.",
+      "dateStart": "1950-09",
+      "dateEnd": "1950-09",
+      "place": "Incheon",
+      "center": [
+        126.71,
+        37.46
+      ],
+      "zoom": 6,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/macarthur-incheon-1950.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Incheon Landing"
+        }
+      ],
+      "tags": [
+        "Command",
+        "Strategy"
+      ]
+    }
+  ]
+}

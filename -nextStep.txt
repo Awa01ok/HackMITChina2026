@@ -1,0 +1,2 @@
+1. 启动 python -m http.server 8000
+2. 打开 localhost:8000

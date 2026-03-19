@@ -1,0 +1,297 @@
+{
+  "id": "hitler",
+  "name": "Adolf Hitler",
+  "years": "1889-1945",
+  "summary": "Leader of Nazi Germany whose decisions drove the European war, territorial expansion, and genocidal policies during World War II.",
+  "portrait": "assets/portraits/hitler.jpg",
+  "tags": {
+    "roles": [
+      "Leader"
+    ],
+    "domains": [
+      "Politics",
+      "Military"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "theaters": [
+      "Europe",
+      "Eastern Front",
+      "Western Front"
+    ],
+    "themes": [
+      "Statecraft",
+      "Strategy",
+      "Propaganda"
+    ],
+    "eras": [
+      "Interwar",
+      "Early WWII",
+      "Mid WWII",
+      "Late WWII"
+    ]
+  },
+  "events": [
+    {
+      "id": "berlin-1933",
+      "title": "1933 · Hitler Becomes Chancellor",
+      "description": "Hitler’s appointment as chancellor marked the start of Nazi rule and the rapid destruction of the Weimar system.",
+      "dateStart": "1933-01",
+      "dateEnd": "1933-03",
+      "place": "Berlin",
+      "center": [
+        13.4,
+        52.52
+      ],
+      "zoom": 5,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/hitler-berlin-1933.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Hitler Becomes Chancellor"
+        }
+      ],
+      "tags": [
+        "Statecraft",
+        "Propaganda"
+      ]
+    },
+    {
+      "id": "nuremberg-1934",
+      "title": "1934 · Consolidation after the Night of the Long Knives",
+      "description": "By crushing rivals and combining offices after Hindenburg’s death, Hitler turned dictatorship into personal rule.",
+      "dateStart": "1934-06",
+      "dateEnd": "1934-08",
+      "place": "Berlin",
+      "center": [
+        13.4,
+        52.52
+      ],
+      "zoom": 5,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/hitler-night-knives-1934.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Consolidation after the Night of the Long Knives"
+        }
+      ],
+      "tags": [
+        "Statecraft",
+        "Propaganda"
+      ]
+    },
+    {
+      "id": "rhineland-1936",
+      "title": "1936 · Reoccupation of the Rhineland",
+      "description": "Hitler ordered German forces into the Rhineland, challenging the post–World War I settlement and testing the resolve of Britain and France.",
+      "dateStart": "1936-03",
+      "dateEnd": "1936-03",
+      "place": "Rhineland",
+      "center": [
+        7.1,
+        50.7
+      ],
+      "zoom": 5,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/hitler-rhineland-1936.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Reoccupation of the Rhineland"
+        }
+      ],
+      "tags": [
+        "Statecraft",
+        "Strategy"
+      ]
+    },
+    {
+      "id": "vienna-1938",
+      "title": "1938 · Anschluss with Austria",
+      "description": "The annexation of Austria expanded German power and emboldened Hitler’s foreign policy.",
+      "dateStart": "1938-03",
+      "dateEnd": "1938-03",
+      "place": "Vienna",
+      "center": [
+        16.37,
+        48.21
+      ],
+      "zoom": 5,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/hitler-anschluss-1938.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Anschluss with Austria"
+        }
+      ],
+      "tags": [
+        "Statecraft",
+        "Propaganda"
+      ]
+    },
+    {
+      "id": "munich-1938",
+      "title": "1938 · Sudeten Crisis and Munich",
+      "description": "Hitler leveraged the Sudeten crisis to dismantle Czechoslovakia step by step.",
+      "dateStart": "1938-09",
+      "dateEnd": "1938-10",
+      "place": "Munich",
+      "center": [
+        11.58,
+        48.14
+      ],
+      "zoom": 5,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/hitler-munich-1938.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Sudeten Crisis and Munich"
+        }
+      ],
+      "tags": [
+        "Statecraft",
+        "Strategy"
+      ]
+    },
+    {
+      "id": "poland-1939",
+      "title": "1939 · Invasion of Poland",
+      "description": "The invasion of Poland marked the beginning of World War II in Europe and triggered declarations of war from Britain and France.",
+      "dateStart": "1939-09",
+      "dateEnd": "1939-10",
+      "place": "Poland",
+      "center": [
+        19.0,
+        52.0
+      ],
+      "zoom": 5,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/hitler-poland-1939.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Invasion of Poland"
+        }
+      ],
+      "tags": [
+        "Strategy",
+        "Statecraft"
+      ]
+    },
+    {
+      "id": "france-1940",
+      "title": "1940 · Fall of France",
+      "description": "The swift defeat of France represented the high tide of Hitler’s early war strategy in Europe.",
+      "dateStart": "1940-05",
+      "dateEnd": "1940-06",
+      "place": "France",
+      "center": [
+        2.2,
+        49.2
+      ],
+      "zoom": 5,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/hitler-france-1940.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Fall of France"
+        }
+      ],
+      "tags": [
+        "Strategy",
+        "Command"
+      ]
+    },
+    {
+      "id": "barbarossa-1941",
+      "title": "1941 · Operation Barbarossa",
+      "description": "Hitler launched the invasion of the Soviet Union, opening the largest land campaign of the war.",
+      "dateStart": "1941-06",
+      "dateEnd": "1941-12",
+      "place": "Eastern Front",
+      "center": [
+        27.0,
+        53.0
+      ],
+      "zoom": 4,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/hitler-barbarossa-1941.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Operation Barbarossa"
+        }
+      ],
+      "tags": [
+        "Strategy",
+        "Statecraft"
+      ]
+    },
+    {
+      "id": "stalingrad-1942",
+      "title": "1942 · Stalingrad and Strategic Overreach",
+      "description": "The catastrophe at Stalingrad exposed the costs of Hitler’s rigid command style.",
+      "dateStart": "1942-08",
+      "dateEnd": "1943-02",
+      "place": "Stalingrad",
+      "center": [
+        44.51,
+        48.71
+      ],
+      "zoom": 5,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/hitler-stalingrad-1942.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Stalingrad and Strategic Overreach"
+        }
+      ],
+      "tags": [
+        "Command",
+        "Strategy"
+      ]
+    },
+    {
+      "id": "berlin-bunker-1945",
+      "title": "1945 · Berlin Bunker",
+      "description": "As Soviet forces closed in on Berlin, Hitler remained in the bunker for the regime’s final collapse.",
+      "dateStart": "1945-04",
+      "dateEnd": "1945-04",
+      "place": "Berlin",
+      "center": [
+        13.4,
+        52.52
+      ],
+      "zoom": 6,
+      "pitch": 20,
+      "bearing": 0,
+      "image": "assets/covers/hitler-berlin-bunker-1945.jpg",
+      "sources": [
+        {
+          "type": "wikipedia",
+          "title": "Berlin Bunker"
+        }
+      ],
+      "tags": [
+        "Statecraft",
+        "Propaganda"
+      ]
+    }
+  ]
+}

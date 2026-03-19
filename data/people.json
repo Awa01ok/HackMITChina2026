@@ -1,0 +1,273 @@
+{
+  "people": [
+    {
+      "id": "chiang",
+      "name": "Chiang Kai-shek",
+      "years": "1887-1975",
+      "summary": "Nationalist leader of China who fought Japan, struggled with the Communists, and ultimately retreated to Taiwan.",
+      "portrait": "assets/portraits/chiang.jpg",
+      "tags": {
+        "roles": [
+          "Leader"
+        ],
+        "domains": [
+          "Politics",
+          "Military"
+        ],
+        "countries": [
+          "China"
+        ],
+        "theaters": [
+          "East Asia"
+        ],
+        "themes": [
+          "Statecraft",
+          "Command",
+          "Strategy"
+        ],
+        "eras": [
+          "Interwar",
+          "Early WWII",
+          "Mid WWII",
+          "Late WWII",
+          "Postwar"
+        ]
+      }
+    },
+    {
+      "id": "mao",
+      "name": "Mao Zedong",
+      "years": "1893-1976",
+      "summary": "Chinese Communist leader whose political and military ascent culminated in the founding of the People’s Republic of China.",
+      "portrait": "assets/portraits/mao.jpg",
+      "tags": {
+        "roles": [
+          "Leader"
+        ],
+        "domains": [
+          "Politics",
+          "Military"
+        ],
+        "countries": [
+          "China"
+        ],
+        "theaters": [
+          "East Asia"
+        ],
+        "themes": [
+          "Statecraft",
+          "Command",
+          "Propaganda"
+        ],
+        "eras": [
+          "Interwar",
+          "Early WWII",
+          "Mid WWII",
+          "Late WWII",
+          "Postwar"
+        ]
+      }
+    },
+    {
+      "id": "hitler",
+      "name": "Adolf Hitler",
+      "years": "1889-1945",
+      "summary": "Leader of Nazi Germany whose decisions drove the European war, territorial expansion, and genocidal policies during World War II.",
+      "portrait": "assets/portraits/hitler.jpg",
+      "tags": {
+        "roles": [
+          "Leader"
+        ],
+        "domains": [
+          "Politics",
+          "Military"
+        ],
+        "countries": [
+          "Germany"
+        ],
+        "theaters": [
+          "Europe",
+          "Eastern Front",
+          "Western Front"
+        ],
+        "themes": [
+          "Statecraft",
+          "Strategy",
+          "Propaganda"
+        ],
+        "eras": [
+          "Interwar",
+          "Early WWII",
+          "Mid WWII",
+          "Late WWII"
+        ]
+      }
+    },
+    {
+      "id": "rommel",
+      "name": "Erwin Rommel",
+      "years": "1891-1944",
+      "summary": "German field marshal best known for his campaigns in North Africa and his reputation for bold mobile warfare.",
+      "portrait": "assets/portraits/rommel.jpg",
+      "tags": {
+        "roles": [
+          "Commander"
+        ],
+        "domains": [
+          "Military"
+        ],
+        "countries": [
+          "Germany"
+        ],
+        "theaters": [
+          "North Africa",
+          "Western Front"
+        ],
+        "themes": [
+          "Mobile Warfare",
+          "Strategy",
+          "Command"
+        ],
+        "eras": [
+          "Early WWII",
+          "Mid WWII",
+          "Late WWII"
+        ]
+      }
+    },
+    {
+      "id": "zhukov",
+      "name": "Georgy Zhukov",
+      "years": "1896-1974",
+      "summary": "Soviet marshal and one of the most important commanders on the Eastern Front during World War II.",
+      "portrait": "assets/portraits/zhukov.jpg",
+      "tags": {
+        "roles": [
+          "Commander"
+        ],
+        "domains": [
+          "Military"
+        ],
+        "countries": [
+          "Soviet Union"
+        ],
+        "theaters": [
+          "Eastern Front"
+        ],
+        "themes": [
+          "Land Warfare",
+          "Strategy",
+          "Command"
+        ],
+        "eras": [
+          "Early WWII",
+          "Mid WWII",
+          "Late WWII",
+          "Postwar"
+        ]
+      }
+    },
+    {
+      "id": "stalin",
+      "name": "Joseph Stalin",
+      "years": "1878-1953",
+      "summary": "Leader of the Soviet Union during World War II, overseeing industrial mobilization, wartime strategy, and postwar expansion.",
+      "portrait": "assets/portraits/stalin.jpg",
+      "tags": {
+        "roles": [
+          "Leader"
+        ],
+        "domains": [
+          "Politics",
+          "Military"
+        ],
+        "countries": [
+          "Soviet Union"
+        ],
+        "theaters": [
+          "Eastern Front",
+          "Europe"
+        ],
+        "themes": [
+          "Statecraft",
+          "Command",
+          "Industry"
+        ],
+        "eras": [
+          "Interwar",
+          "Early WWII",
+          "Mid WWII",
+          "Late WWII",
+          "Postwar"
+        ]
+      }
+    },
+    {
+      "id": "montgomery",
+      "name": "Bernard Montgomery",
+      "years": "1887-1976",
+      "summary": "British field marshal remembered for El Alamein, Normandy, and his role in Allied operations in Europe.",
+      "portrait": "assets/portraits/montgomery.jpg",
+      "tags": {
+        "roles": [
+          "Commander"
+        ],
+        "domains": [
+          "Military"
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "theaters": [
+          "North Africa",
+          "Western Front"
+        ],
+        "themes": [
+          "Strategy",
+          "Command",
+          "Land Warfare"
+        ],
+        "eras": [
+          "Early WWII",
+          "Mid WWII",
+          "Late WWII",
+          "Postwar"
+        ]
+      }
+    },
+    {
+      "id": "macarthur",
+      "name": "Douglas MacArthur",
+      "years": "1880-1964",
+      "summary": "American general best known for his leadership in the Pacific and the occupation of Japan.",
+      "portrait": "assets/portraits/macarthur.jpg",
+      "tags": {
+        "roles": [
+          "Commander"
+        ],
+        "domains": [
+          "Military"
+        ],
+        "countries": [
+          "United States"
+        ],
+        "theaters": [
+          "Pacific",
+          "East Asia"
+        ],
+        "themes": [
+          "Strategy",
+          "Command",
+          "Land Warfare"
+        ],
+        "eras": [
+          "Interwar",
+          "Early WWII",
+          "Mid WWII",
+          "Late WWII",
+          "Postwar"
+        ]
+      }
+    }
+  ]
+}
